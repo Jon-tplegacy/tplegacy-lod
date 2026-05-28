@@ -1,0 +1,108 @@
+@prefix void:    <http://rdfs.org/ns/void#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix schema:  <http://schema.org/> .
+
+# ══════════════════════════════════════════════════════════════
+#  VoID Description — tplegacy.net
+#  Linked Open Data dataset of the True Parents Legacy Archive
+#
+#  This file is the "passport" for LOD Cloud registration.
+#  It describes the dataset, its license, its size, and its
+#  links to other LOD datasets (primarily Wikidata).
+# ══════════════════════════════════════════════════════════════
+
+<https://tplegacy.net/.well-known/void>
+    a                    void:DatasetDescription ;
+    dcterms:title        "VoID Description of the True Parents Legacy Dataset"@en ;
+    dcterms:creator      <https://tplegacy.net/#organization> ;
+    foaf:primaryTopic    <https://tplegacy.net/#dataset> .
+
+# ── The Dataset ──
+
+<https://tplegacy.net/#dataset>
+    a                    void:Dataset ;
+    dcterms:title        "True Parents Legacy Teaching Archive"@en ;
+    dcterms:description  "Digital archive of 3,700+ sermons, speeches, prayers, and book passages by Sun Myung Moon (1920–2012) and Hak Ja Han Moon (1943–present), spanning 1946 to 2012. Published as Linked Open Data with links to Wikidata entities."@en ;
+    dcterms:publisher    <https://tplegacy.net/#organization> ;
+    dcterms:license      <https://creativecommons.org/licenses/by-nc/4.0/> ;
+    dcterms:created      "2024-01-01"^^xsd:date ;
+    dcterms:modified     "2025-05-28"^^xsd:date ;
+
+    # Subject classification (Dublin Core)
+    dcterms:subject
+        <http://dbpedia.org/resource/Unification_Church> ,
+        <http://dbpedia.org/resource/Sun_Myung_Moon> ,
+        <http://dbpedia.org/resource/Sermon> ,
+        <http://dbpedia.org/resource/Religious_text> ;
+
+    # Access
+    foaf:homepage        <https://tplegacy.net/> ;
+    void:dataDump        <https://raw.githubusercontent.com/andresigdev/tplegacy-lod/main/tplegacy.nt> ;
+    void:uriSpace        "https://tplegacy.net/" ;
+    void:uriRegexPattern "https://tplegacy\\.net/[a-z0-9-]+/" ;
+
+    # Vocabularies used
+    void:vocabulary
+        <http://schema.org/> ,
+        <http://purl.org/dc/terms/> ,
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ;
+
+    # Size (updated by GitHub Action — these are approximate initial values)
+    void:triples         "35000"^^xsd:integer ;
+    void:entities        "3800"^^xsd:integer ;
+    void:classes         "4"^^xsd:integer ;
+    void:properties      "15"^^xsd:integer ;
+
+    # ── Links to other LOD datasets ──
+    # This is what LOD Cloud uses to draw the connecting arrows
+
+    void:subset          <https://tplegacy.net/#linkset-wikidata> ;
+    void:subset          <https://tplegacy.net/#linkset-dbpedia> ;
+    void:subset          <https://tplegacy.net/#linkset-cc> .
+
+# ── Linkset: tplegacy → Wikidata ──
+# Every post with a known author links to their Wikidata entity.
+# Sun Myung Moon (Q131433): ~3,000 links
+# Hak Ja Han Moon (Q493527): ~400 links
+# FFWPU (Q217059): 1 link
+# TPLegacy org (Q138757400): 1 link
+
+<https://tplegacy.net/#linkset-wikidata>
+    a                    void:Linkset ;
+    void:target          <https://tplegacy.net/#dataset> ;
+    void:target          <http://www.wikidata.org/> ;
+    void:linkPredicate   schema:sameAs ;
+    void:triples         "3500"^^xsd:integer .
+
+# ── Linkset: tplegacy → DBpedia ──
+# Subject tags link to DBpedia concepts
+
+<https://tplegacy.net/#linkset-dbpedia>
+    a                    void:Linkset ;
+    void:target          <https://tplegacy.net/#dataset> ;
+    void:target          <http://dbpedia.org/> ;
+    void:linkPredicate   dcterms:subject ;
+    void:triples         "4"^^xsd:integer .
+
+# ── Linkset: tplegacy → Creative Commons ──
+# Every post links to CC license URI
+
+<https://tplegacy.net/#linkset-cc>
+    a                    void:Linkset ;
+    void:target          <https://tplegacy.net/#dataset> ;
+    void:target          <https://creativecommons.org/> ;
+    void:linkPredicate   schema:license ;
+    void:triples         "3700"^^xsd:integer .
+
+# ── Publisher ──
+
+<https://tplegacy.net/#organization>
+    a              foaf:Organization ;
+    foaf:name      "True Parents Legacy" ;
+    foaf:homepage  <https://tplegacy.net/> ;
+    owl:sameAs     <http://www.wikidata.org/entity/Q138757400> .
