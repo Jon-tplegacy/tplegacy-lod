@@ -41,5 +41,5 @@ A [GitHub Action](https://github.com/andresigdev/tplegacy-theme/actions) in the 
 This dataset is submitted to [lod-cloud.net](https://lod-cloud.net/) under the **Publications** domain.
 
 - **NAAN:** 68749 (ARK persistent identifiers)
-- **Wikidata:** [Q138757400](https://www.wikidata.org/wiki/Q138757400)
+- **Wikidata:** [Q138757400](https://www.wikidata.org/wiki/Q217059)
 - **VoID:** [`void.ttl`](void.ttl)
