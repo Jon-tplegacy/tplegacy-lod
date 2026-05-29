@@ -32,7 +32,7 @@ Linked Open Data dump of the [True Parents Legacy](https://tplegacy.net/) digita
 
 A [GitHub Action](https://github.com/andresigdev/tplegacy-theme/actions) in the theme repo runs weekly:
 
-1. Fetches all posts from Ghost Content API
+1. Fetches all posts from Content API
 2. Converts to RDF N-Triples (schema.org vocabulary)
 3. Pushes `tplegacy.nt` and `stats.json` here
 
