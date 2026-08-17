@@ -330,17 +330,18 @@
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/url> "https://tplegacy.net/world-of-gods-dominion/" .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/world-of-gods-dominion> .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/datePublished> "1956-06-27"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/dateModified> "2026-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/description> "Headquarters Church, Seoul, Korea\n\nPrayer\nBeloved Father! We brothers and sisters who do not possess anything have come before the Father's knees. Please do not let them feel self-centered emotions.\n\nPlease let them not possess any valuable thing centering on themselves without first living for the "@en .
+<https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/description> "\n\n\n\n\n1956-06-27 · Former Headquarters Church, Korea\n\n\n\n\nThe topic I want to speak about, centering on the Bible verse I have recited, is “Let Us Claim Back the World of God's Dominion and Offer It to Him.” I will speak briefly on this topic.\n\n\nThe Task of Finding the Governing Lord, God\n\nAll the thi"@en .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
-<https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/timeRequired> "PT23M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/timeRequired> "PT21M"^^<http://www.w3.org/2001/XMLSchema#duration> .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-god/> .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-satan/> .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1950/> .
+<https://tplegacy.net/world-of-gods-dominion/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/become-the-true-ancestors-of-humankind/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/become-the-true-ancestors-of-humankind/> <http://schema.org/headline> "Please Lead Us To Become The True Ancestors Of Humankind"@en .
 <https://tplegacy.net/become-the-true-ancestors-of-humankind/> <http://schema.org/url> "https://tplegacy.net/become-the-true-ancestors-of-humankind/" .
@@ -1601,8 +1602,8 @@
 <https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/url> "https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/" .
 <https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-person-who-is-to-remain-before-gods-will> .
 <https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/datePublished> "1957-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/dateModified> "2026-02-13"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/description> "Former Church Headquarters\n\nSeoul, Korea\n\nMatthew 15:7-18\n\nThe purpose of God's constant toil and His leading of the providence until the present day is only to achieve His will. The ultimate return point is to share the same sufferings and joy. \n\nIf we men achieve the will that God earnestly wishes"@en .
+<https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/description> "\n\n\n\n\n1957-07-07 · Former Headquarters Church, Korea\n\n\n\n\nMatthew 15:7-18\n\nThe purpose of God's constant toil and His leading of the providence until the present day is only to achieve His will. The ultimate return point is to share the same sufferings and joy. \n\nIf we men achieve the will that God ea"@en .
 <https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
@@ -1611,6 +1612,7 @@
 <https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-gods-will/> .
 <https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1950/> .
+<https://tplegacy.net/the-person-who-is-to-remain-before-gods-will/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/original-nature-of-goodness/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/original-nature-of-goodness/> <http://schema.org/headline> "Let Us Avoid Being Punished for Our Sins by Restoring the Original Nature of Goodness"@en .
 <https://tplegacy.net/original-nature-of-goodness/> <http://schema.org/url> "https://tplegacy.net/original-nature-of-goodness/" .
@@ -1853,12 +1855,12 @@
 <https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/url> "https://tplegacy.net/not-become-a-betrayer-of-gods-will/" .
 <https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/not-become-a-betrayer-of-gods-will> .
 <https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/datePublished> "1957-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/dateModified> "2026-02-09"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/description> "Matthew 23:29-39\n\nPrayer\nFather, please forgive the children who are gathered here today. They have been living day by day, not understanding that they are Your precious children.\n\nWe understand that without You, no one can comfort us, nor can anyone allow us to manifest Your glory. Have we, by any "@en .
+<https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/description> "Matthew 23:29-39\n\nThe title of the speech I would like to reflect upon with you in this hour is “Let Us Not Become a Betrayer of God's Will.”\n\n\nThe Reason Human Beings Could Not Live in the Eternal Ideal and Environment\n\nToday, we are living in an environment in which it is extremely difficult to es"@en .
 <https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
-<https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/timeRequired> "PT18M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/timeRequired> "PT15M"^^<http://www.w3.org/2001/XMLSchema#duration> .
 <https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-gods-will/> .
 <https://tplegacy.net/not-become-a-betrayer-of-gods-will/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1950/> .
@@ -1882,17 +1884,18 @@
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/url> "https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/" .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/let-us-become-the-ones-who-can-understand-gods-sorrow> .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/datePublished> "1957-10-25"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/dateModified> "2026-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/description> "Former Church Headquarters\n\nSeoul, Korea\n\nGenesis 6:5-13\n\nPrayer\nFather of love! When we reflect upon the 6,000 years of history, we can see that you have not had even one moment to rest in comfort or rejoice. On the contrary, we know that you have been immersed in grief and anguish. Reflecting upon"@en .
+<https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/description> "\n\n\n\n\n1957-10-25 · Former Headquarters Church, Korea\n\n\n\n\nGenesis 6:5-13\n\nAt this hour, I would like to speak on the title of “Let Us Become the Ones Who Can Understand God's Sorrow.” \n\n\nGod's Grief Caused by the Human Fall\n\nYou know well that throughout the thousands of years of history, grief has be"@en .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
-<https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/timeRequired> "PT20M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/timeRequired> "PT18M"^^<http://www.w3.org/2001/XMLSchema#duration> .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/about> <https://tplegacy.net/tag/sorrow/> .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-god/> .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1950/> .
+<https://tplegacy.net/let-us-become-the-ones-who-can-understand-gods-sorrow/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/the-providential-life-of-jesus/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/the-providential-life-of-jesus/> <http://schema.org/headline> "The Providential Life of Jesus and its Victorious Purpose"@en .
 <https://tplegacy.net/the-providential-life-of-jesus/> <http://schema.org/url> "https://tplegacy.net/the-providential-life-of-jesus/" .
@@ -1956,17 +1959,18 @@
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/url> "https://tplegacy.net/one-will-have-been-realized/" .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/one-will-have-been-realized> .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/datePublished> "1957-11-10"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/dateModified> "2026-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/description> "Former Church Headquarters\n\nSeoul, Korea\n\nActs 4:27-5:11\n\nPrayer\nFather of love, in the present state, the last fight has come before us. The Will of the Father, which was prophesied to the Israelites, must be accomplished on the earth. Therefore, we know that the sacred spirit must appear again. \n\n"@en .
+<https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/description> "\n\n\n\n\n1957-11-10 · Former Headquarters Church, Korea\n\n\n\n\nActs 4:27-5:11\n\nToday, I will speak on the topic “God's Power is Revealed Where One Heart and One Will Have Been Realized.” \n\n\nThe Sorrow of the Disciples Who Lost Their Leader\n\nAfter the resurrection, Jesus stayed on the earth for forty days. "@en .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
-<https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/timeRequired> "PT21M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/timeRequired> "PT20M"^^<http://www.w3.org/2001/XMLSchema#duration> .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/about> <https://tplegacy.net/tag/gods-heart/> .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-god/> .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1950/> .
+<https://tplegacy.net/one-will-have-been-realized/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/become-one-with-your-mind/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/become-one-with-your-mind/> <http://schema.org/headline> "Please Allow Us To Become One With Your Mind"@en .
 <https://tplegacy.net/become-one-with-your-mind/> <http://schema.org/url> "https://tplegacy.net/become-one-with-your-mind/" .
@@ -2720,17 +2724,17 @@
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/url> "https://tplegacy.net/who-will-become-the-friend-of-golgotha/" .
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/who-will-become-the-friend-of-golgotha> .
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/datePublished> "1958-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/dateModified> "2026-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/description> "Luke 12:26-43\n\nFormer Headquarters Church\n\nSeoul, Korea\n\nOctober 19, 1958\n\nPrayer\nToday we have gathered before You again. We are afraid of not being able to return glory to You in Your distress. We are afraid of revealing reckless falsity before Your will. Father, if we are unworthy, at least grant"@en .
+<https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/description> "Luke 12:26-43\n\n\n\n\n1958-10-19 · Former Headquarters Church, Korea\n\n\n\n\n\nJesus Brought the Truth, Life, Love, and Ideals of Heaven\n\nAs you well know, Golgotha means the place of the skull and thus is the place of death. To become a friend of Golgotha means to become a friend of death.\n\nChristians belie"@en .
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
-<https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/timeRequired> "PT24M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/timeRequired> "PT21M"^^<http://www.w3.org/2001/XMLSchema#duration> .
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-jesus/> .
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
-<https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-apostle-peter/> .
 <https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1950/> .
+<https://tplegacy.net/who-will-become-the-friend-of-golgotha/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/please-let-us-become-those-who-remain-with-you-to-the-very-end-father/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/please-let-us-become-those-who-remain-with-you-to-the-very-end-father/> <http://schema.org/headline> "Please Let Us Become Those Who Remain With You To The Very End, Father"@en .
 <https://tplegacy.net/please-let-us-become-those-who-remain-with-you-to-the-very-end-father/> <http://schema.org/url> "https://tplegacy.net/please-let-us-become-those-who-remain-with-you-to-the-very-end-father/" .
@@ -3747,7 +3751,7 @@
 <https://tplegacy.net/faith-which-should-be-examined-carefully/> <http://schema.org/url> "https://tplegacy.net/faith-which-should-be-examined-carefully/" .
 <https://tplegacy.net/faith-which-should-be-examined-carefully/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/faith-which-should-be-examined-carefully> .
 <https://tplegacy.net/faith-which-should-be-examined-carefully/> <http://schema.org/datePublished> "1959-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/faith-which-should-be-examined-carefully/> <http://schema.org/dateModified> "2026-02-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/faith-which-should-be-examined-carefully/> <http://schema.org/dateModified> "2026-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/faith-which-should-be-examined-carefully/> <http://schema.org/description> "that April 12, 1959, Former Church Headquarters\n\nMatthew 11:1-30\n\nPrayer\nAlthough we are unworthy, we have missed Your holy image, returned to You, and prostrated our minds and bodies. Please accept us with the grace of sympathy.\n\nYou have loved hundreds of thousands of times and endured endlessly. "@en .
 <https://tplegacy.net/faith-which-should-be-examined-carefully/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/faith-which-should-be-examined-carefully/> <http://schema.org/inLanguage> "en" .
@@ -3762,12 +3766,12 @@
 <https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/url> "https://tplegacy.net/establish-the-kingdom-of-heaven/" .
 <https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/establish-the-kingdom-of-heaven> .
 <https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/datePublished> "1959-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/dateModified> "2026-07-18"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/description> "May 17, 1959, Former Church Headquarters\n\nJohn 14:1-24\n\nPrayer\nDistressed in the stormy sea of death, we human beings are sinners who cannot be trusted. We realize that we cannot raise our heads in front of Heavenly Father, who has striven, been wronged, and fought on throughout the providence for c"@en .
+<https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/description> "\n\n\n\n\n1959-05-17 · Former Headquarters Church, Korea\n\n\n\n\nJohn 14:1-24\n\n\nThe Reason Humankind Seeks the Good Purpose\n\nWe know that ever since the human ancestors experienced the sadness of losing Paradise, there has been sadness of mind, sadness of body, and sadness of life.\n\nThat sadness permeated th"@en .
 <https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
-<https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/timeRequired> "PT47M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/timeRequired> "PT37M"^^<http://www.w3.org/2001/XMLSchema#duration> .
 <https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-kingdom-of-heaven/> .
 <https://tplegacy.net/establish-the-kingdom-of-heaven/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
@@ -4730,15 +4734,16 @@
 <https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/url> "https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/" .
 <https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/let-us-become-those-who-live-together-with-gods-love> .
 <https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/datePublished> "1960-05-08"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/dateModified> "2026-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/description> "This is an unofficial English translation prepared for tplegacy.net. It has not been reviewed or authorized by FFWPU or any official Unification Movement publishing body.\n\nMay 8, 1960 (Sunday), Former Headquarters Church.\n\nEphesians 3:1-21\n\nPrayer\n\nHow greatly Father has longed for Your blessing to "@en .
+<https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/description> "This is an unofficial English translation prepared for tplegacy.net. It has not been reviewed or authorized by FFWPU or any official Unification Movement publishing body.\n\n\n\n\n1960-05-08 · Former Headquarters Church, Korea\n\n\n\n\nEphesians 3:1-21\n\nToday, centering on the Scripture read aloud, I shall sp"@en .
 <https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
-<https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/timeRequired> "PT43M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/timeRequired> "PT38M"^^<http://www.w3.org/2001/XMLSchema#duration> .
 <https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
 <https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/let-us-become-those-who-live-together-with-gods-love/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/filial-piety-while-attending-you/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/filial-piety-while-attending-you/> <http://schema.org/headline> "Please Let Us Walk The Path Of Loyalty And Filial Piety While Attending You"@en .
 <https://tplegacy.net/filial-piety-while-attending-you/> <http://schema.org/url> "https://tplegacy.net/filial-piety-while-attending-you/" .
@@ -4816,8 +4821,8 @@
 <https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/url> "https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/" .
 <https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/korea-must-welcome-the-god-who-comes-seeking-the-world> .
 <https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/datePublished> "1960-06-12"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/dateModified> "2026-06-03"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/description> "Former Headquarters Church.\n\nJohn 3:16-21\n\n\n\n\n\nIn Essence\n\n\nPossess the Founders, Not Just the Religions\nThe call to this nation is not “believe Buddhism, Confucianism, or Christianity”—but “possess Sakyamuni, possess Confucius, possess Jesus” in the heart, beyond every denominational sign.\n\nKorea a"@en .
+<https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/description> "\n\n\n\n\n1960-06-12 · Former Headquarters Church, Korea\n\n\n\n\nJohn 3:16-21\n\n\n\n\n\nIn Essence\n\n\nPossess the Founders, Not Just the Religions\nThe call to this nation is not “believe Buddhism, Confucianism, or Christianity”—but “possess Sakyamuni, possess Confucius, possess Jesus” in the heart, beyond every de"@en .
 <https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
@@ -4826,6 +4831,7 @@
 <https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
 <https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/korea-must-welcome-the-god-who-comes-seeking-the-world/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/the-consciousness-of-purpose-in-all-beings-and-the-one-world/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/the-consciousness-of-purpose-in-all-beings-and-the-one-world/> <http://schema.org/headline> "The Consciousness of Purpose in All Beings and the One World"@en .
 <https://tplegacy.net/the-consciousness-of-purpose-in-all-beings-and-the-one-world/> <http://schema.org/url> "https://tplegacy.net/the-consciousness-of-purpose-in-all-beings-and-the-one-world/" .
@@ -4979,8 +4985,8 @@
 <https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/url> "https://tplegacy.net/in-search-of-the-true-foundation/" .
 <https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/in-search-of-the-true-foundation> .
 <https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/datePublished> "1960-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/dateModified> "2026-06-03"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/description> "Former Headquarters Church.\n\nMatthew 7:7\n\n\n\n\n\nIn Essence\n\n\nThe Unchanging Footing\nEvery person lives upon ground that shifts and changes; no one yet stands as an unchanging foundation before God’s absolute love, life, and ideal.\n\nTread on Each Rung to Reach God\nStop at the self and lose friends; sto"@en .
+<https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/description> "\n\n\n\n\n1960-09-25 · Former Headquarters Church, Korea\n\n\n\n\nMatthew 7:7\n\n\n\n\n\nIn Essence\n\n\nThe Unchanging Footing\nEvery person lives upon ground that shifts and changes; no one yet stands as an unchanging foundation before God’s absolute love, life, and ideal.\n\nTread on Each Rung to Reach God\nStop at the"@en .
 <https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
@@ -4989,6 +4995,7 @@
 <https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
 <https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/in-search-of-the-true-foundation/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/please-protect-your-children-who-are-fighting-for-the-will-in-each-place/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/please-protect-your-children-who-are-fighting-for-the-will-in-each-place/> <http://schema.org/headline> "Please Protect Your Children Who Are Fighting For The Will In Each Place"@en .
 <https://tplegacy.net/please-protect-your-children-who-are-fighting-for-the-will-in-each-place/> <http://schema.org/url> "https://tplegacy.net/please-protect-your-children-who-are-fighting-for-the-will-in-each-place/" .
@@ -5065,8 +5072,8 @@
 <https://tplegacy.net/our-resolve/> <http://schema.org/url> "https://tplegacy.net/our-resolve/" .
 <https://tplegacy.net/our-resolve/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/our-resolve> .
 <https://tplegacy.net/our-resolve/> <http://schema.org/datePublished> "1960-11-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/our-resolve/> <http://schema.org/dateModified> "2026-06-22"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/our-resolve/> <http://schema.org/description> "Former Headquarters Church\n\nMatthew 10:32–42\n\n\n\nIn Essence삼대 부모 · 三大 父母 · samdae bumo — The three great parentsThe body is born of earth, the mind of heaven; humanity therefore has three parents—Heaven as father, earth as mother, and one’s physical parents.삼대 공인 · 三大 公認 · samdae gong-in — Threefold "@en .
+<https://tplegacy.net/our-resolve/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/our-resolve/> <http://schema.org/description> "\n\n\n\n\n1960-11-06 · Former Headquarters Church, Korea\n\n\n\n\nMatthew 10:32–42\n\n\n\nIn Essence삼대 부모 · 三大 父母 · samdae bumo — The three great parentsThe body is born of earth, the mind of heaven; humanity therefore has three parents—Heaven as father, earth as mother, and one’s physical parents.삼대 공인 · 三大 公認 ·"@en .
 <https://tplegacy.net/our-resolve/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/our-resolve/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/our-resolve/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
@@ -5075,6 +5082,7 @@
 <https://tplegacy.net/our-resolve/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
 <https://tplegacy.net/our-resolve/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/our-resolve/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/our-resolve/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/justification-of-children-and-the-glory-of-children/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/justification-of-children-and-the-glory-of-children/> <http://schema.org/headline> "Please Allow Us To Possess The Justification Of Children And The Glory Of Children"@en .
 <https://tplegacy.net/justification-of-children-and-the-glory-of-children/> <http://schema.org/url> "https://tplegacy.net/justification-of-children-and-the-glory-of-children/" .
@@ -5210,8 +5218,8 @@
 <https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/url> "https://tplegacy.net/let-us-become-gods-representatives/" .
 <https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/let-us-become-gods-representatives> .
 <https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/datePublished> "1961-01-09"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/dateModified> "2026-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/description> "Sunchang Church, Korea\n\n\n\nIn Essence하나님의 대신자 · 代身者 · Haneunim-ui daesinja — God’s representativeThe believer is called to stand as God’s substitute, inheriting His hope, circumstance, and heart, and waging the fight against Satan by their own strength.소망·사정·심정 · 所望·事情·心情 · somang·sajeong·simjeong — "@en .
+<https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/description> "\n\n\n\n\n1961-01-09 · Sunchang Church, Korea\n\n\n\n\n\n\nIn Essence하나님의 대신자 · 代身者 · Haneunim-ui daesinja — God’s representativeThe believer is called to stand as God’s substitute, inheriting His hope, circumstance, and heart, and waging the fight against Satan by their own strength.소망·사정·심정 · 所望·事情·心情 · soman"@en .
 <https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/let-us-become-gods-representatives/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
@@ -5708,8 +5716,8 @@
 <https://tplegacy.net/the-path-of-restoration/> <http://schema.org/url> "https://tplegacy.net/the-path-of-restoration/" .
 <https://tplegacy.net/the-path-of-restoration/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-path-of-restoration> .
 <https://tplegacy.net/the-path-of-restoration/> <http://schema.org/datePublished> "1964-03-15"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/the-path-of-restoration/> <http://schema.org/dateModified> "2026-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/the-path-of-restoration/> <http://schema.org/description> "Former Headquarters Church.\n\nLuke 12:48–53\n\n\n\nIn Essence복귀 · 復歸 · Bokgwi — Restoration, a word born of the FallRestoration, salvation, and savior are joyless terms that exist only because humanity fell and must be carried back to God.거꾸로 올라가는 역사 · Geokkuro Ollaganeun Yeoksa — God’s history runs in r"@en .
+<https://tplegacy.net/the-path-of-restoration/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-path-of-restoration/> <http://schema.org/description> "\n\n\n\n\n1964-03-15 · Former Headquarters Church, Korea\n\n\n\n\nLuke 12:48–53\n\n\n\nIn Essence복귀 · 復歸 · Bokgwi — Restoration, a word born of the FallRestoration, salvation, and savior are joyless terms that exist only because humanity fell and must be carried back to God.거꾸로 올라가는 역사 · Geokkuro Ollaganeun Yeoks"@en .
 <https://tplegacy.net/the-path-of-restoration/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/the-path-of-restoration/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/the-path-of-restoration/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
@@ -5719,6 +5727,7 @@
 <https://tplegacy.net/the-path-of-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/the-path-of-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
 <https://tplegacy.net/the-path-of-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-restoration/> .
+<https://tplegacy.net/the-path-of-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/the-father-and-his-kingdom/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/the-father-and-his-kingdom/> <http://schema.org/headline> "The Father and His Kingdom"@en .
 <https://tplegacy.net/the-father-and-his-kingdom/> <http://schema.org/url> "https://tplegacy.net/the-father-and-his-kingdom/" .
@@ -5826,7 +5835,7 @@
 <https://tplegacy.net/children-who-remain-faithful/> <http://schema.org/url> "https://tplegacy.net/children-who-remain-faithful/" .
 <https://tplegacy.net/children-who-remain-faithful/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/children-who-remain-faithful> .
 <https://tplegacy.net/children-who-remain-faithful/> <http://schema.org/datePublished> "1964-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/children-who-remain-faithful/> <http://schema.org/dateModified> "2026-06-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/children-who-remain-faithful/> <http://schema.org/dateModified> "2026-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/children-who-remain-faithful/> <http://schema.org/description> "Third Divine Principle Lecture Competition\n\nDaegu, South Korea\n\nMankind violated the global foundation that God had wanted to establish. We, today, must be aware of God's immense sadness. God's desperate heart when he set up historical figures such as Noah and Abraham cannot be expressed in words. G"@en .
 <https://tplegacy.net/children-who-remain-faithful/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/children-who-remain-faithful/> <http://schema.org/inLanguage> "en" .
@@ -6290,8 +6299,8 @@
 <https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/url> "https://tplegacy.net/let-us-set-out-anew/" .
 <https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/let-us-set-out-anew> .
 <https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/datePublished> "1965-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/dateModified> "2026-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/description> "Former Headquarters Church.\n\n\n\nIn Essence새롭게 출발하자 · Saeropge Chulbalhaja — Let us start anewOn the association’s anniversary the call is to begin anew, since all of us still stand where indemnity must be paid and restoration won.양자가 아닌 친자식 · Yangjaga Anin Chinjasik — A true child, not an adopted son"@en .
+<https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/description> "\n\n\n\n\n1965-05-01 · Former Headquarters Church, Korea\n\n\n\n\n\n\nIn Essence새롭게 출발하자 · Saeropge Chulbalhaja — Let us start anewOn the association’s anniversary the call is to begin anew, since all of us still stand where indemnity must be paid and restoration won.양자가 아닌 친자식 · Yangjaga Anin Chinjasik — A tru"@en .
 <https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
@@ -6299,6 +6308,7 @@
 <https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/let-us-set-out-anew/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/questions-answers-on-creation/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/questions-answers-on-creation/> <http://schema.org/headline> "Questions & Answers on Creation"@en .
 <https://tplegacy.net/questions-answers-on-creation/> <http://schema.org/url> "https://tplegacy.net/questions-answers-on-creation/" .
@@ -7043,8 +7053,8 @@
 <https://tplegacy.net/complete-restoration/> <http://schema.org/url> "https://tplegacy.net/complete-restoration/" .
 <https://tplegacy.net/complete-restoration/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/complete-restoration> .
 <https://tplegacy.net/complete-restoration/> <http://schema.org/datePublished> "1966-12-18"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/complete-restoration/> <http://schema.org/dateModified> "2026-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/complete-restoration/> <http://schema.org/description> "\n\n\nIn Essence완전복귀 · 完全復歸 · Wanjeon Bokgwi — Complete restorationBy the text’s teaching complete restoration proceeds only from individual to family to nation to world — never all at once.엉클어진 역사를 풀어야 · Eongkeureojin Yeoksareul Pureoya — Untangling knotted historyLike tangled silk, history cannot be "@en .
+<https://tplegacy.net/complete-restoration/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/complete-restoration/> <http://schema.org/description> "\n\n\n\n\n1966-12-18 · Former Headquarters Church, Korea\n\n\n\n\n\n\nIn Essence완전복귀 · 完全復歸 · Wanjeon Bokgwi — Complete restorationBy the text’s teaching complete restoration proceeds only from individual to family to nation to world — never all at once.엉클어진 역사를 풀어야 · Eongkeureojin Yeoksareul Pureoya — Untangli"@en .
 <https://tplegacy.net/complete-restoration/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/complete-restoration/> <http://schema.org/inLanguage> "en" .
 <https://tplegacy.net/complete-restoration/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
@@ -7054,6 +7064,7 @@
 <https://tplegacy.net/complete-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/complete-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
 <https://tplegacy.net/complete-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-restoration/> .
+<https://tplegacy.net/complete-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/the-central-stalk-the-shoot-and-the-spring/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/the-central-stalk-the-shoot-and-the-spring/> <http://schema.org/headline> "The Central Stalk, the Shoot, and the Spring"@en .
 <https://tplegacy.net/the-central-stalk-the-shoot-and-the-spring/> <http://schema.org/url> "https://tplegacy.net/the-central-stalk-the-shoot-and-the-spring/" .
@@ -9070,6 +9081,22 @@
 <https://tplegacy.net/love-all-people/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-true-love/> .
 <https://tplegacy.net/love-all-people/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/love-all-people/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/headline> "The Front Line of Restoration"@en .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/url> "https://tplegacy.net/the-front-line-of-restoration/" .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-front-line-of-restoration> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/datePublished> "1969-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/dateModified> "2026-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/description> "\n\n\nIn Essence복귀의 전선 — the front line of restorationAll humanity, living and departed, stands on one battle line; each is graded by how much spirit, person, and matter they commit to it.대가 — every goal exacts a proportionate priceThe larger the aim — person, family, nation — the greater the trial; a "@en .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/timeRequired> "PT69M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-restoration/> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/the-front-line-of-restoration/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
 <https://tplegacy.net/lights-of-joy-before-you-father/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/lights-of-joy-before-you-father/> <http://schema.org/headline> "We Want To Become Lights Of Joy Before You, Father"@en .
 <https://tplegacy.net/lights-of-joy-before-you-father/> <http://schema.org/url> "https://tplegacy.net/lights-of-joy-before-you-father/" .
@@ -9084,6 +9111,35 @@
 <https://tplegacy.net/lights-of-joy-before-you-father/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/lights-of-joy-before-you-father/> <http://schema.org/about> <https://tplegacy.net/tag/prayer-for-hope/> .
 <https://tplegacy.net/lights-of-joy-before-you-father/> <http://schema.org/about> <https://tplegacy.net/tag/1960s-prayers/> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/headline> "A Person of Faith Who Grasps Through Experience"@en .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/url> "https://tplegacy.net/person-of-faith-who-grasps-through-experience/" .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/person-of-faith-who-grasps-through-experience> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/datePublished> "1969-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/dateModified> "2026-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/description> "Daegu Church, Korea\n\n\n\nIn Essence체훈적인 신앙 — faith of felt experienceTrue faith is not bought with money or effort but forged by devotion — carrying a cup of water through a millennium without spilling a drop.6천년 역사의 열매 — who is the fruit of history?You cannot be the harvest without seeing autumn; the"@en .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/timeRequired> "PT111M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/person-of-faith-who-grasps-through-experience/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/headline> "How Will You Leave a True Life?"@en .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/url> "https://tplegacy.net/how-will-you-leave-a-true-life/" .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/how-will-you-leave-a-true-life> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/datePublished> "1969-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/dateModified> "2026-08-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/description> "\n\n\n\n\n1969-10-19 · Daegu Church, Korea\n\n\n\n\n\n\n\n\nIn Essence\n\n\nA Lifetime Is Built From Days\nA whole life is decided in single days — if one day fails, that failure is lodged permanently in the entire life course.\n\nThe One Time That Never Returns\nGod prepared this moment across all history; it arrives o"@en .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/timeRequired> "PT47M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/how-will-you-leave-a-true-life/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
 <https://tplegacy.net/father-to-receive-the-glory/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/father-to-receive-the-glory/> <http://schema.org/headline> "We Hope For You Alone, Our Father, To Receive The Glory"@en .
 <https://tplegacy.net/father-to-receive-the-glory/> <http://schema.org/url> "https://tplegacy.net/father-to-receive-the-glory/" .
@@ -9113,6 +9169,37 @@
 <https://tplegacy.net/please-realize-your-will-through-us-father/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/please-realize-your-will-through-us-father/> <http://schema.org/about> <https://tplegacy.net/tag/loyalty-and-filial-piety/> .
 <https://tplegacy.net/please-realize-your-will-through-us-father/> <http://schema.org/about> <https://tplegacy.net/tag/1960s-prayers/> .
+<https://tplegacy.net/youth-in-bloom/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/headline> "Youth in Bloom"@en .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/url> "https://tplegacy.net/youth-in-bloom/" .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/youth-in-bloom> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/datePublished> "1969-10-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/dateModified> "2026-08-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/description> "\n\n\n\n\n1969-10-25 · Former Headquarters Church, Korea\n\n\n\n\n\n\n\n\nIn Essence\n\n\nMan and Woman, God’s Supreme Masterpiece\nLoving God’s greatest work is the path to blessing — yet being two, man and woman can be loved equally only once they become one.\n\nThe Seven Flowering Years\nYouth from eighteen is love’s"@en .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/timeRequired> "PT90M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/youth-in-bloom/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/headline> "The Responsible Person Heaven Desires"@en .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/url> "https://tplegacy.net/the-responsible-person-heaven-desires/" .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-responsible-person-heaven-desires> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/datePublished> "1969-11-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/dateModified> "2026-08-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/description> "\n\n\n\n\n1970.03.14 · Former Headquarters Church, Korea\n\n\n\n\n\n\n\n\nIn Essence\n\n\nAll Responsibility Traces Back to God\nNo duty originates in the person, family or nation that carries it — and God himself labors under responsibility throughout the whole course of history.\n\nThe World’s War Is Mind Against Bod"@en .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/timeRequired> "PT37M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/the-responsible-person-heaven-desires/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/situation-with-which-we-are-faced/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/situation-with-which-we-are-faced/> <http://schema.org/headline> "Please Allow Us To Consider On Our Own The Situation With Which We Are Faced"@en .
 <https://tplegacy.net/situation-with-which-we-are-faced/> <http://schema.org/url> "https://tplegacy.net/situation-with-which-we-are-faced/" .
@@ -9127,6 +9214,21 @@
 <https://tplegacy.net/situation-with-which-we-are-faced/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/situation-with-which-we-are-faced/> <http://schema.org/about> <https://tplegacy.net/tag/entreaty/> .
 <https://tplegacy.net/situation-with-which-we-are-faced/> <http://schema.org/about> <https://tplegacy.net/tag/1960s-prayers/> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/headline> "The Rugged Road We Must Go"@en .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/url> "https://tplegacy.net/the-rugged-road-we-must-go/" .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-rugged-road-we-must-go> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/datePublished> "1969-11-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/dateModified> "2026-08-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/description> "\n\n\n\n\n1969-11-09 · Former Headquarters Church, Korea\n\n\n\n\n\n\n\n\nIn Essence\n\n\nA Ridge No One Can Cross for You\nEach figure of providence faced a steeper pass than the last, and a parent’s crossing never exempts the child from making the same climb alone.\n\nThe Rough Road Is the Rising Road\nTrial and perse"@en .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/timeRequired> "PT48M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/the-rugged-road-we-must-go/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
 <https://tplegacy.net/spirit-people-from-childrens-day-on/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/spirit-people-from-childrens-day-on/> <http://schema.org/headline> "Please Bless All Humankind And The Many Spirit People From Children's Day On"@en .
 <https://tplegacy.net/spirit-people-from-childrens-day-on/> <http://schema.org/url> "https://tplegacy.net/spirit-people-from-childrens-day-on/" .
@@ -9171,6 +9273,37 @@
 <https://tplegacy.net/our-attitude-in-the-face-of-death/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-death/> .
 <https://tplegacy.net/our-attitude-in-the-face-of-death/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/our-attitude-in-the-face-of-death/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/headline> "The Road We Must Someday Go"@en .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/url> "https://tplegacy.net/the-road-we-must-someday-go/" .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-road-we-must-someday-go> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/datePublished> "1969-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/description> "\n\n\n\n\n1969-11-15 · Former Headquarters Church, Korea\n\n\n\n\n\n\n\n\nIn Essence\n\n\nYou Cannot Stand on Three Foundations\nFamily, nation and world cannot all be one’s starting point at once — the choice of foundation decides everything that follows.\n\nMarrying for the Sake of the World\nThe act looks identical t"@en .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/timeRequired> "PT48M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/the-road-we-must-someday-go/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/headline> "The Betrayer and Heaven"@en .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/url> "https://tplegacy.net/the-betrayer-and-heaven/" .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-betrayer-and-heaven> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/datePublished> "1969-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/description> "\n\n\n\n\n1969-11-23 · Former Headquarters Church, Korea\n\n\n\n\n1 Corinthians 3:16\n\n\n\n\n\nIn Essence\n\n\nTwo Kinds of Betrayer\nLosing a fortune can be forgiven; one careless word can sever a bond forever — the inward betrayal cuts far deeper than the outward.\n\n민며느리 · Minmyeoneuri — the Bride Raised in the House"@en .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/timeRequired> "PT54M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/the-betrayer-and-heaven/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/destined-relationship-of-father-and-son-3/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/destined-relationship-of-father-and-son-3/> <http://schema.org/headline> "Please Let Us Long To Have The Destined Relationship Of Father And Son With You"@en .
 <https://tplegacy.net/destined-relationship-of-father-and-son-3/> <http://schema.org/url> "https://tplegacy.net/destined-relationship-of-father-and-son-3/" .
@@ -9214,6 +9347,22 @@
 <https://tplegacy.net/proper-behavior-between-spouses/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
 <https://tplegacy.net/proper-behavior-between-spouses/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
 <https://tplegacy.net/proper-behavior-between-spouses/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-about-marriage/> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/headline> "The Wound of Humiliation"@en .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/url> "https://tplegacy.net/the-wound-of-humiliation/" .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-wound-of-humiliation> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/datePublished> "1969-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/dateModified> "2026-08-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/description> "\n\n\n\n\n1969-12-07 · Former Headquarters Church, Korea\n\n\n\n\n\n\n\n\nIn Essence\n\n\n受辱 · Suyok — the Wound of Disgrace\nShame arises when what is true is denied its own standing; once that denial is publicly confirmed, shame hardens into disgrace.\n\nThe Wronged One Does the Seeking\nPeople opened the distance, ye"@en .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/timeRequired> "PT30M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/the-wound-of-humiliation/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/symbols-of-you-father/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/symbols-of-you-father/> <http://schema.org/headline> "Please Let Us Appear As Symbols Of You, Father"@en .
 <https://tplegacy.net/symbols-of-you-father/> <http://schema.org/url> "https://tplegacy.net/symbols-of-you-father/" .
@@ -9242,6 +9391,38 @@
 <https://tplegacy.net/find-our-original-parents/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
 <https://tplegacy.net/find-our-original-parents/> <http://schema.org/about> <https://tplegacy.net/tag/resurrection/> .
 <https://tplegacy.net/find-our-original-parents/> <http://schema.org/about> <https://tplegacy.net/tag/1960s-prayers/> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/headline> "Our Value Yesterday and Today"@en .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/url> "https://tplegacy.net/our-value-yesterday-and-today/" .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/our-value-yesterday-and-today> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/datePublished> "1969-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/description> "\n\n\n\n\n1969-12-14 · Former Headquarters Church, Korea\n\n\n\n\n\n\n\n\nIn Essence\n\n\nBegun With God, Ended With Man\nEvery religion set out centered on God and arrived centered on itself; today’s faith adds to human accounts rather than heaven’s.\n\nNo Faith Has Crossed Its Own Border\nIsrael would not cross beyond"@en .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/timeRequired> "PT50M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/our-value-yesterday-and-today/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/headline> "The Owner of the Harvest"@en .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/url> "https://tplegacy.net/the-owner-of-the-harvest/" .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-owner-of-the-harvest> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/datePublished> "1969-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/dateModified> "2026-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/description> "\n\n\n\n\n1969-12-14 · Former Headquarters Church, Korea\n\n\n\n\n\n\n\n\nIn Essence\n\n\nThe Owner of the Harvest\nHeaven has sown for six thousand years and paid in blood, yet has never once owned the crop it came to gather.\n\nServant of a Servant\nA servant at least has a master to serve; fallen people have none, an"@en .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/inLanguage> "en" .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/license> <https://creativecommons.org/licenses/by-nc-nd/4.0/> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/timeRequired> "PT69M"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/author> <https://tplegacy.net/author/sun-myung-moon/> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/about> <https://tplegacy.net/tag/church-services/> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/about> <https://tplegacy.net/tag/sermon/> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/about> <https://tplegacy.net/tag/sermons-1960/> .
+<https://tplegacy.net/the-owner-of-the-harvest/> <http://schema.org/about> <https://tplegacy.net/tag/cheongpa-dong/> .
 <https://tplegacy.net/we-long-to-accompany-you-on-the-path-you-are-going/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
 <https://tplegacy.net/we-long-to-accompany-you-on-the-path-you-are-going/> <http://schema.org/headline> "We Long To Accompany You On The Path You Are Going"@en .
 <https://tplegacy.net/we-long-to-accompany-you-on-the-path-you-are-going/> <http://schema.org/url> "https://tplegacy.net/we-long-to-accompany-you-on-the-path-you-are-going/" .
@@ -16351,7 +16532,7 @@
 <https://tplegacy.net/the-sound-of-the-bell-of-the-mind/> <http://schema.org/url> "https://tplegacy.net/the-sound-of-the-bell-of-the-mind/" .
 <https://tplegacy.net/the-sound-of-the-bell-of-the-mind/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-sound-of-the-bell-of-the-mind> .
 <https://tplegacy.net/the-sound-of-the-bell-of-the-mind/> <http://schema.org/datePublished> "1979-01-28"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/the-sound-of-the-bell-of-the-mind/> <http://schema.org/dateModified> "2025-12-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-sound-of-the-bell-of-the-mind/> <http://schema.org/dateModified> "2026-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/the-sound-of-the-bell-of-the-mind/> <http://schema.org/description> "\nBelvedere\n\nHow did you know today was the lunar new year?\n\nThe Oriental custom of celebrating the new year based on the lunar calendar is thousands of years old. Unlike the West, when the new year comes, we always add one more year to our age. So today you are really one year older; happy New Year "@en .
 <https://tplegacy.net/the-sound-of-the-bell-of-the-mind/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/the-sound-of-the-bell-of-the-mind/> <http://schema.org/inLanguage> "en" .
@@ -34442,7 +34623,7 @@
 <https://tplegacy.net/organizational-expansion-of-tong-ban-activities/> <http://schema.org/url> "https://tplegacy.net/organizational-expansion-of-tong-ban-activities/" .
 <https://tplegacy.net/organizational-expansion-of-tong-ban-activities/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/organizational-expansion-of-tong-ban-activities> .
 <https://tplegacy.net/organizational-expansion-of-tong-ban-activities/> <http://schema.org/datePublished> "2005-01-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/organizational-expansion-of-tong-ban-activities/> <http://schema.org/dateModified> "2026-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/organizational-expansion-of-tong-ban-activities/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/organizational-expansion-of-tong-ban-activities/> <http://schema.org/description> "Organizational expansion centering on people of social eminence\n\nThis time, we must complete our tong ban (local community and home neighborhood) activities. We must go after those people who oppose us and get them to repent by any means, and then pull them to our side. You should consider this more"@en .
 <https://tplegacy.net/organizational-expansion-of-tong-ban-activities/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/organizational-expansion-of-tong-ban-activities/> <http://schema.org/inLanguage> "en" .
@@ -35480,7 +35661,7 @@
 <https://tplegacy.net/gods-sorrow-and-the-providence-of-restoration/> <http://schema.org/url> "https://tplegacy.net/gods-sorrow-and-the-providence-of-restoration/" .
 <https://tplegacy.net/gods-sorrow-and-the-providence-of-restoration/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/gods-sorrow-and-the-providence-of-restoration> .
 <https://tplegacy.net/gods-sorrow-and-the-providence-of-restoration/> <http://schema.org/datePublished> "2005-01-11"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/gods-sorrow-and-the-providence-of-restoration/> <http://schema.org/dateModified> "2026-06-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/gods-sorrow-and-the-providence-of-restoration/> <http://schema.org/dateModified> "2026-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/gods-sorrow-and-the-providence-of-restoration/> <http://schema.org/description> "God lost His eternal and only son How sorrowful\n\nGod was when Adam and Eve committed the Fall and sank away from Him! They were to have been the ideal partners for God, who embodies the pure essence of love. God’s sorrow exceeded that of any person. He grieved so very deeply. The deeper and greater "@en .
 <https://tplegacy.net/gods-sorrow-and-the-providence-of-restoration/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/gods-sorrow-and-the-providence-of-restoration/> <http://schema.org/inLanguage> "en" .
@@ -38056,7 +38237,7 @@
 <https://tplegacy.net/the-purpose-and-goal-of-a-life-of-faith/> <http://schema.org/url> "https://tplegacy.net/the-purpose-and-goal-of-a-life-of-faith/" .
 <https://tplegacy.net/the-purpose-and-goal-of-a-life-of-faith/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-purpose-and-goal-of-a-life-of-faith> .
 <https://tplegacy.net/the-purpose-and-goal-of-a-life-of-faith/> <http://schema.org/datePublished> "2005-01-20"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/the-purpose-and-goal-of-a-life-of-faith/> <http://schema.org/dateModified> "2026-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-purpose-and-goal-of-a-life-of-faith/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/the-purpose-and-goal-of-a-life-of-faith/> <http://schema.org/description> "The Foundation for the Messiah\n\nCreating a foundation for the Messiah, by restoring the foundation of faith and the foundation of substance, is necessary in order to remove original sin. Once we remove the original sin, we are able to newly enter the realm of God’s life and love. To do so, we must r"@en .
 <https://tplegacy.net/the-purpose-and-goal-of-a-life-of-faith/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/the-purpose-and-goal-of-a-life-of-faith/> <http://schema.org/inLanguage> "en" .
@@ -43109,7 +43290,7 @@
 <https://tplegacy.net/government-for-the-people/> <http://schema.org/url> "https://tplegacy.net/government-for-the-people/" .
 <https://tplegacy.net/government-for-the-people/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/government-for-the-people> .
 <https://tplegacy.net/government-for-the-people/> <http://schema.org/datePublished> "2007-04-18"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/government-for-the-people/> <http://schema.org/dateModified> "2026-02-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/government-for-the-people/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/government-for-the-people/> <http://schema.org/description> "The welfare of its citizens should be the chief concern of the government. The scriptures affirm that a ruler should put the people’s needs ahead of his own.\n\nThis is signified by his titles: the prophets of Israel called their rulers “shepherds,” Jesus called rulers of the Kingdom “servants,” and C"@en .
 <https://tplegacy.net/government-for-the-people/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/government-for-the-people/> <http://schema.org/inLanguage> "en" .
@@ -45023,7 +45204,7 @@
 <https://tplegacy.net/creation-and-fruition/> <http://schema.org/url> "https://tplegacy.net/creation-and-fruition/" .
 <https://tplegacy.net/creation-and-fruition/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/creation-and-fruition> .
 <https://tplegacy.net/creation-and-fruition/> <http://schema.org/datePublished> "2008-11-09"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/creation-and-fruition/> <http://schema.org/dateModified> "2026-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/creation-and-fruition/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/creation-and-fruition/> <http://schema.org/description> "From now on, you husbands and wives, being exemplary models, must inherit all that has been completed centering on True Parents and what True Parents have accomplished after the proclamation of the realm of rebirth, revival, and eternal life.\n\nYou have been living centering on your individual blesse"@en .
 <https://tplegacy.net/creation-and-fruition/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/creation-and-fruition/> <http://schema.org/inLanguage> "en" .
@@ -45228,7 +45409,7 @@
 <https://tplegacy.net/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos/> <http://schema.org/url> "https://tplegacy.net/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos/" .
 <https://tplegacy.net/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos> .
 <https://tplegacy.net/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos/> <http://schema.org/datePublished> "2009-10-10"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos/> <http://schema.org/dateModified> "2026-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos/> <http://schema.org/description> "East Garden, New York State, USA * Morning Hoon Dok Hae Address\n\n\n\n\n\nIn Essence\n\n\n同居 · 同樂 · 同生 — Cohabitation, Co-rejoicing, Co-living\nGod dwells in every being of the cosmos through eternal give-and-receive action.\n\nAbsolute Essence Family\nThe concave and the convex belong absolutely to God — not t"@en .
 <https://tplegacy.net/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/god-cohabits-co-rejoices-and-co-lives-with-all-beings-of-the-cosmos/> <http://schema.org/inLanguage> "en" .
@@ -45241,7 +45422,7 @@
 <https://tplegacy.net/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding/> <http://schema.org/url> "https://tplegacy.net/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding/" .
 <https://tplegacy.net/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding> .
 <https://tplegacy.net/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding/> <http://schema.org/datePublished> "2009-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding/> <http://schema.org/dateModified> "2026-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding/> <http://schema.org/description> "East Garden, New York State, USA * Morning Hoon Dok Hae Address\n\n\n\n\n\nIn Essence\n\n\nGod’s Liberation, Coronation, and Golden Wedding\nThree ceremonies bound into one—Heaven’s King of Kings released from imprisonment, crowned, and granted His fiftieth wedding anniversary on a single providential day.\n\nT"@en .
 <https://tplegacy.net/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding/> <http://schema.org/inLanguage> "en" .
@@ -45594,7 +45775,7 @@
 <https://tplegacy.net/the-textbook-is-the-substance/> <http://schema.org/url> "https://tplegacy.net/the-textbook-is-the-substance/" .
 <https://tplegacy.net/the-textbook-is-the-substance/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-textbook-is-the-substance> .
 <https://tplegacy.net/the-textbook-is-the-substance/> <http://schema.org/datePublished> "2010-01-28"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/the-textbook-is-the-substance/> <http://schema.org/dateModified> "2026-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-textbook-is-the-substance/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/the-textbook-is-the-substance/> <http://schema.org/description> "Cheon Jeong Gung, Gapyeong, Gyeonggi, Korea\n\n\n\n\nIn Essence교재가 실체 · Gyojae-ga Silche — The Textbook Is the SubstanceFather’s words are not merely his teaching but God’s textbook itself, holding authority that surpasses even his physical presence.하나님의 교본 · Hananim-ui Gyobon — God’s Textbook, Not Fathe"@en .
 <https://tplegacy.net/the-textbook-is-the-substance/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/the-textbook-is-the-substance/> <http://schema.org/inLanguage> "en" .
@@ -45673,7 +45854,7 @@
 <https://tplegacy.net/the-one-and-only-god/> <http://schema.org/url> "https://tplegacy.net/the-one-and-only-god/" .
 <https://tplegacy.net/the-one-and-only-god/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/the-one-and-only-god> .
 <https://tplegacy.net/the-one-and-only-god/> <http://schema.org/datePublished> "2010-02-04"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/the-one-and-only-god/> <http://schema.org/dateModified> "2026-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/the-one-and-only-god/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/the-one-and-only-god/> <http://schema.org/description> "Cheon Jeong Gung, Gapyeong, Gyeonggi, Korea\n\n\n\nIn Essence한 분밖에 없는 하나님 — The One and Only GodAcross millions of nations, families, and individuals, only one God can stand as King — the textbook’s entire purpose is to preserve that single sovereign through every age.가감승제의 무서움 — The Terror of Arithmeti"@en .
 <https://tplegacy.net/the-one-and-only-god/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/the-one-and-only-god/> <http://schema.org/inLanguage> "en" .
@@ -45822,7 +46003,7 @@
 <https://tplegacy.net/become-the-master-who-liberates-god/> <http://schema.org/url> "https://tplegacy.net/become-the-master-who-liberates-god/" .
 <https://tplegacy.net/become-the-master-who-liberates-god/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/become-the-master-who-liberates-god> .
 <https://tplegacy.net/become-the-master-who-liberates-god/> <http://schema.org/datePublished> "2010-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/become-the-master-who-liberates-god/> <http://schema.org/dateModified> "2026-06-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/become-the-master-who-liberates-god/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/become-the-master-who-liberates-god/> <http://schema.org/description> "Cheon Jeong Gung, Gapyeong, Gyeonggi, Korea\n\n\n\nIn EssenceInheritance, not appointmentOnly one who has inherited True Father’s full authority can lead — mere blessing or seniority confers no representative status, and unauthorized teachers brand him a liar.Western philosophy’s four broken pillarsDesc"@en .
 <https://tplegacy.net/become-the-master-who-liberates-god/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/become-the-master-who-liberates-god/> <http://schema.org/inLanguage> "en" .
@@ -46105,7 +46286,7 @@
 <https://tplegacy.net/a-life-like-a-lighthouse/> <http://schema.org/url> "https://tplegacy.net/a-life-like-a-lighthouse/" .
 <https://tplegacy.net/a-life-like-a-lighthouse/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/a-life-like-a-lighthouse> .
 <https://tplegacy.net/a-life-like-a-lighthouse/> <http://schema.org/datePublished> "2010-04-26"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/a-life-like-a-lighthouse/> <http://schema.org/dateModified> "2026-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/a-life-like-a-lighthouse/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/a-life-like-a-lighthouse/> <http://schema.org/description> "Ramada Plaza Hotel, Cheongju, North Chungcheong, Korea\n\n\n\n\n\nIn Essence\n\n\n鮮明 · 天 — The Names Decoded\nSun-myung joins land (羊) and sea (魚); 天 is two persons (二人) — the nation those two make one is Cheon Il Guk, Korea.\n\n밤이 먼저 — Night Before Day\nAs the great precedes the small and the high the low, nigh"@en .
 <https://tplegacy.net/a-life-like-a-lighthouse/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/a-life-like-a-lighthouse/> <http://schema.org/inLanguage> "en" .
@@ -48630,7 +48811,7 @@
 <https://tplegacy.net/global-unification-leadership/> <http://schema.org/url> "https://tplegacy.net/global-unification-leadership/" .
 <https://tplegacy.net/global-unification-leadership/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/global-unification-leadership> .
 <https://tplegacy.net/global-unification-leadership/> <http://schema.org/datePublished> "2014-01-12"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/global-unification-leadership/> <http://schema.org/dateModified> "2026-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/global-unification-leadership/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/global-unification-leadership/> <http://schema.org/description> "North-South Unification and World Peace - True Parents LegacyTrue Parents have offered their entire lives to end the kingdom of hell on earth and in heaven,\nwhich arose due to the Fall of our first ancestors, and to establish the kingdom of heaven on\nearth and in heaven.True Parents LegacyAuthors\n\n\n"@en .
 <https://tplegacy.net/global-unification-leadership/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/global-unification-leadership/> <http://schema.org/inLanguage> "en" .
@@ -49227,7 +49408,7 @@
 <https://tplegacy.net/true-fathers-childhood-and-youth/> <http://schema.org/url> "https://tplegacy.net/true-fathers-childhood-and-youth/" .
 <https://tplegacy.net/true-fathers-childhood-and-youth/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/true-fathers-childhood-and-youth> .
 <https://tplegacy.net/true-fathers-childhood-and-youth/> <http://schema.org/datePublished> "2014-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/true-fathers-childhood-and-youth/> <http://schema.org/dateModified> "2026-07-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/true-fathers-childhood-and-youth/> <http://schema.org/dateModified> "2026-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/true-fathers-childhood-and-youth/> <http://schema.org/description> "Love for Nature \n\nThe Birth of True Parents - Cham Bumo GyeongEver since the Fall of the first human ancestors Adam and Eve, God wanted to complete the\nprovidence of salvation.TP LegacyAuthors\n\n \n\nLessons from nature\nTrue Father spent about 18 years of his life within about ten kilometers of his bir"@en .
 <https://tplegacy.net/true-fathers-childhood-and-youth/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/true-fathers-childhood-and-youth/> <http://schema.org/inLanguage> "en" .
@@ -51582,7 +51763,7 @@
 <https://tplegacy.net/a-life-of-gratitude-and-devotion/> <http://schema.org/url> "https://tplegacy.net/a-life-of-gratitude-and-devotion/" .
 <https://tplegacy.net/a-life-of-gratitude-and-devotion/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/a-life-of-gratitude-and-devotion> .
 <https://tplegacy.net/a-life-of-gratitude-and-devotion/> <http://schema.org/datePublished> "2017-07-25"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/a-life-of-gratitude-and-devotion/> <http://schema.org/dateModified> "2026-07-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/a-life-of-gratitude-and-devotion/> <http://schema.org/dateModified> "2026-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/a-life-of-gratitude-and-devotion/> <http://schema.org/description> "A life of gratitude\n\nI have only one goal for my life. It is to find what I should do so that I can live with a more grateful heart today than yesterday. It is the goal of my life to have a grateful heart every day, I live, endeavoring to be more grateful today than yesterday, and to be more gratefu"@en .
 <https://tplegacy.net/a-life-of-gratitude-and-devotion/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/a-life-of-gratitude-and-devotion/> <http://schema.org/inLanguage> "en" .
@@ -54326,7 +54507,7 @@
 <https://tplegacy.net/dispensational-time-identity/> <http://schema.org/url> "https://tplegacy.net/dispensational-time-identity/" .
 <https://tplegacy.net/dispensational-time-identity/> <http://schema.org/sameAs> <https://n2t.net/ark:/68749/dispensational-time-identity> .
 <https://tplegacy.net/dispensational-time-identity/> <http://schema.org/datePublished> "2026-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://tplegacy.net/dispensational-time-identity/> <http://schema.org/dateModified> "2026-04-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://tplegacy.net/dispensational-time-identity/> <http://schema.org/dateModified> "2026-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://tplegacy.net/dispensational-time-identity/> <http://schema.org/description> "Korean: 시대적 동시성 (Sidae-jeok Dongsiseong)\nHanja: 時代的 同時性\n\nAlso known as: Parallel Providential Periods; Typological Parallelism;\nHistorical Recurrence in Providence Location in Wolli Kangron: Part II, Chapter 3 — The Periods in Providential History and the Determination of Their Lengths; Chapter 4 — "@en .
 <https://tplegacy.net/dispensational-time-identity/> <http://schema.org/publisher> <https://tplegacy.net/#organization> .
 <https://tplegacy.net/dispensational-time-identity/> <http://schema.org/inLanguage> "en" .
